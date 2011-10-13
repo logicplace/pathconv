@@ -1,0 +1,5 @@
+* toUnixPath
+* fromURL
+* toDosPath
+* fromDosPath
+http://en.wikipedia.org/wiki/File_path
